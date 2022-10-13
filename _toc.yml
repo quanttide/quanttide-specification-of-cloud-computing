@@ -1,0 +1,9 @@
+format: jb-book
+root: README.md
+chapters:
+  - file: services/README.md
+    sections:
+      - file: services/cam/README.md
+  - file: security/README.md
+    sections: 
+      - security/permissions_management_of_team_members.md
