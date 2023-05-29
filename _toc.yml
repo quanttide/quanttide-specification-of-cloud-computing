@@ -10,4 +10,4 @@ chapters:
           - file: services/iam/tencentcloud.md
   - file: security/README.md
     sections: 
-      - security/permissions_management_of_team_members.md
+      - file: security/permissions_management_of_team_members.md
