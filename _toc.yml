@@ -3,7 +3,11 @@ root: README.md
 chapters:
   - file: services/README.md
     sections:
-      - file: services/cam/README.md
+      - file: services/fc/README.md
+      - file: services/mq/README.md
+      - file: services/iam/README.md
+        sections:
+          - file: services/iam/tencentcloud.md
   - file: security/README.md
     sections: 
       - security/permissions_management_of_team_members.md
